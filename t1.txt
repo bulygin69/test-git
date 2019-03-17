@@ -12,5 +12,5 @@
 10. внесем изменение в эту ветку
 
 11. git checkout master
-12. git merge b1
-
+12. сливание веток git merge b1
+13. удаляем ненужную ветку git branch -d b1
