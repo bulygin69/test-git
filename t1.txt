@@ -16,4 +16,8 @@
 13. удаляем ненужную ветку git branch -d b1
 
 14. все ветки git branch
-15. git clone https://github.com/bulygin69 test
+
+15. скопируем exist.git в tgit
+    git remote add exist https://github.com/bulygin69/exist.git
+16. git remote add tgit https://github.com/bulygin69/exist
+17. git remote show origin
