@@ -1,1 +1,5 @@
-c1 diff
+1. создать git init
+2. добавить или изменить файл t1.txt
+3. проиндексировать git add
+4. зафиксироваить git commit -m "comment" t1.txt
+
