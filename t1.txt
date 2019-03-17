@@ -8,3 +8,4 @@
 7. зафиксироваить git commit -m "f2" t1.txt
 
 8. новая ветка git branch b1
+9. смена ветки с master на b1 git checkout b1
