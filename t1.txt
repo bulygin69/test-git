@@ -11,3 +11,6 @@
 9. смена ветки с master на b1 git checkout b1
 10. внесем изменение в эту ветку
 
+11. git checkout master
+12. git merge b1
+
