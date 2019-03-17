@@ -1,0 +1,24 @@
+1. создать git init
+2. добавить или изменить файл t1.txt
+3. проиндексировать git add
+4. зафиксироваить git commit -m "f1" t1.txt
+
+5. выводит коммиты git log
+6. добавить или изменить файл t1.txt
+7. зафиксироваить git commit -m "f2" t1.txt
+
+8. новая ветка git branch b1
+9. смена ветки с master на b1 git checkout b1
+10. внесем изменение в эту ветку
+
+11. git checkout master
+12. сливание веток git merge b1
+13. удаляем ненужную ветку git branch -d b1
+
+14. все ветки git branch
+15. скопируем exist.git в tgit
+    git remote add exist https://github.com/bulygin69/exist.git
+    
+16. git remote show https://github.com/bulygin69/exist.git
+17. git fetch https://github.com/bulygin69/exist.git
+18. 
