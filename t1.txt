@@ -14,3 +14,6 @@
 11. git checkout master
 12. сливание веток git merge b1
 13. удаляем ненужную ветку git branch -d b1
+
+14. все ветки git branch
+15. git clone https://github.com/bulygin69 test
